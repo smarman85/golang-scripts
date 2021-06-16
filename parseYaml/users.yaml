@@ -1,0 +1,16 @@
+sdm_groups:
+  techops:
+    - first_name: User
+      last_name: Name
+      email: un@mail.com
+      lucky_number: 14
+    - first_name: test
+      last_name: testM
+      email: test@mail.com
+      lucky_number: 1
+
+  rails:
+    - first_name: user
+      last_name: Name
+      email: test@mail.com
+      lucky_number: 0
